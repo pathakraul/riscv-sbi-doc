@@ -3,3 +3,6 @@
 * [[[priv_v1.12]]] The RISC-V Instruction Set Manual, Volume II:
 Privileged Architecture, Document Version 20211203,
 URL: https://github.com/riscv/riscv-isa-manual/releases/tag/Priv-v1.12
+
+* [[[riscv-rpmi]]] RISC-V Platform Management Interface:
+URL: https://github.com/riscv-non-isa/riscv-rpmi/blob/main/riscv-rpmi.adoc

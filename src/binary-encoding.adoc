@@ -49,6 +49,9 @@ error codes.
 |  SBI_ERR_NO_SHMEM          | -9    | Shared memory not available
 |  SBI_ERR_INVALID_STATE     | -10   | Invalid state
 |  SBI_ERR_BAD_RANGE         | -11   | Bad (or invalid) range
+|  SBI_ERR_NOT_IMPLEMENTED   | -12   | Not implemented
+|  SBI_ERR_TIMEOUT           | -13   | Failed due to timeout
+|  SBI_ERR_IO                | -14   | Input/Output error
 |===
 
 An `ECALL` with an unsupported SBI extension ID (*EID*) or an unsupported SBI
